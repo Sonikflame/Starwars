@@ -1,4 +1,4 @@
-# Воркшоп "Звездные войны" - Учебный проект
+# Воркшоп "Звездные войны"
 
 Учебный проект доступен по адресу [https://sonikflame.github.io/starwars/](https://sonikflame.github.io/starwars/).
 
